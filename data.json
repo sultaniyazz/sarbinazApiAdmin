@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Ali Karimov",
+      "password": "Ali12345",
+      "email": "ali.karimov@example.com"
+    },
+    {
+      "id": 2,
+      "fullname": "Dilnoza Qodirova",
+      "password": "D1ln0za!",
+      "email": "dilnoza.qodirova@example.com"
+    },
+    {
+      "id": 3,
+      "fullname": "Javlon Bekmirzaev",
+      "password": "javlon@321",
+      "email": "javlon.bekmirzaev@example.com"
+    },
+    {
+      "id": 4,
+      "fullname": "Shahzoda Rasulova",
+      "password": "shahzoda2024",
+      "email": "shahzoda.rasulova@example.com"
+    }
+  ]
+}
